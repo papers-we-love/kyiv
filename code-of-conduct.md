@@ -1,7 +1,5 @@
 # Code of Conduct
 
-> Local chapters should fork this document and modify to meet the needs of their communities.
-
 All attendees, speakers, exhibitors, organizers, contributors and volunteers are required to conform to the following Code of Conduct.
 
 Papers We Love events are for anyone interested in Computer Science/Computer Engineering, its history, and related fields to discuss academic research in a fun, engaging and respectful environment.
@@ -43,12 +41,13 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Contributors to the GitHub repository, the Meetup and/or event-related sites, sponsors, or similar are also subject to the anti-harassment policy. Organizers (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment..
 
-Local Chapters
---------------
+<!---
 
-As noted above, local chapters are encouraged to fork and modify the Code of Conduct to best meet the needs of their communities. Some available sources:
+Local chapters should fork this document and modify to best meet the needs of their communities. Some available sources:
 
 - [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
 - [JS Conf EU](http://2014.jsconf.eu/code-of-conduct.html)
 - [Pycon](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md)
 - [Hacker School's Social Rules](https://www.hackerschool.com/manual#sub-sec-social-rules)
+
+-->
