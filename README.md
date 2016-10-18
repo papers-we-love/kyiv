@@ -4,8 +4,9 @@ This is the repository for the Kyiv chapter of Papers We Love. As a local chapte
 
 ### Information
 
-{Chapter information: who, what, where, when, why}
+We are a community built around reading, discussing and learning more about academic computer science papers. This part of CS-related topics are not covered well in Ukraine. PWL Kyiv is an attempt to solve this.
 
 ### Contact
 
-{Names and contact information (twitter, email, etc) of Chapter organizers}
+- Maksym Klymyshyn [@maxmaxmaxmax](https://twitter.com/maxmaxmaxmax)
+- Roman Liutikov [@roman01la](https://twitter.com/roman01la)
